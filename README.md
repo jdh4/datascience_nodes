@@ -3,7 +3,7 @@
 See this directory:
 
 ```
-/Users/jhalverson/rc/cluster_stats/datascience_partition
+/Users/jhalverson/rc/cluster_stats/datascience_partition/<date>
 ```
 
 
